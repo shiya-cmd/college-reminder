@@ -1,0 +1,29 @@
+# Environment / secrets
+.env
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Database
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Saved Moodle cookies
+cookies.json
+cookies/
+data/cookies/
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
